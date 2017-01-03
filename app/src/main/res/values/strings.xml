@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CalenderDemo</string>
+    <string name="january">January %d</string>
+    <string name="february">February %d</string>
+    <string name="march">March %d</string>
+    <string name="april">April %d</string>
+    <string name="may">May %d</string>
+    <string name="june">June %d</string>
+    <string name="july">July %d</string>
+    <string name="august">August %d</string>
+    <string name="september">September %d</string>
+    <string name="october">October %d</string>
+    <string name="november">November %d</string>
+    <string name="december">December %d</string>
+</resources>
